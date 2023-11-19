@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Zahin uddin</h1>
-<h3 align="center">A passionate Web developer .I'm from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer .I'm from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahin52&label=Profile%20views&color=0e75b6&style=flat" alt="zahin52" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [MERN stack app](https://github.com/Zahin52/Post-IT)
 
-- 🌱 I’m currently learning **React,JWT**
+- 🌱 I’m currently learning Machine Learning, Deep Learning, transformers, and diffusion architecture
 
 - 👨‍💻 All of my projects are available at [Zahin52](https://github.com/Zahin52)
 
