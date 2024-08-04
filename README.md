@@ -7,8 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [NEXT JS app](https://github.com/Zahin52/modifymate)
-
+- 🔭 I’m currently working on [ModifyMate an AI SaaS](https://github.com/Zahin52/modifymate)
+  
+- 🔭 Professionaly working on iOS app development [Samsung SmartThings](https://www.samsung.com/us/smartthings/) 
+  
 - 🌱 I’m currently learning Machine Learning, Deep Learning, transformers, and diffusion architecture
 
 - 👨‍💻 All of my projects are available at [Zahin52](https://github.com/Zahin52)
