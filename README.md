@@ -15,21 +15,19 @@ I'm a passionate Software Engineer from Bangladesh. I love coding and exploring 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QO-25DacUb4CDkKArzbFEilJiRdmITXo/view?usp=drive_link)
 - ⚡ Fun fact **I can dance and sing and have dark humor**
 ## 🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/-UIKit-000000?style=flat-square&logo=apple&logoColor=white)
+![Reactive Programming](https://img.shields.io/badge/-Reactive%20Programming-00BFFF?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Clerk](https://img.shields.io/badge/-Clerk-000000?style=flat-square)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-    ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-    ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-    ![UIKit](https://img.shields.io/badge/-UIKit-000000?style=flat-square&logo=apple&logoColor=white)
-    ![Reactive Programming](https://img.shields.io/badge/-Reactive%20Programming-00BFFF?style=flat-square)
-    ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-    ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-    ![Clerk](https://img.shields.io/badge/-Clerk-000000?style=flat-square)
-    ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-</div>
 
 ## 🌟 My Projects
 Here are some of my favorite projects:
