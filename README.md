@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm MD. Zahin uddin</h1>
-<h3 align="center">A passionate Software Engineer. I'm from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm MD Zahin uddin</h1>
+<h3 align="center">A passionate Software Engineer at Samsung Research & Development Institute Bangladesh. I'm from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahin52&label=Profile%20views&color=0e75b6&style=flat" alt="zahin52" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [MERN stack app](https://github.com/Zahin52/Post-IT)
+- 🔭 I’m currently working on [NEXT JS app](https://github.com/Zahin52/modifymate)
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, transformers, and diffusion architecture
 
 - 👨‍💻 All of my projects are available at [Zahin52](https://github.com/Zahin52)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **REACT / NEXT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
