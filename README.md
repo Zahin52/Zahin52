@@ -1,35 +1,55 @@
-<h1 align="center">Hi 👋, I'm MD Zahin uddin</h1>
-<h3 align="center">A passionate Software Engineer at Samsung Research & Development Institute Bangladesh. I'm from Bangladesh</h3>
+# Hello, World! 🌍 I'm MD ZAHIN UDDIN 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahin52&label=Profile%20views&color=0e75b6&style=flat" alt="zahin52" /> </p>
+![Banner](https://media.licdn.com/dms/image/v2/C5616AQHTpNhDhpDVGA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1658135337866?e=1728518400&v=beta&t=1jya9x8P-bmEx2SC4qx2dbpemX2BFI7AqahjOhSaYUw)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahin52" alt="zahin52" /></a> </p>
+## 🚀 About Me
+I'm a passionate Software Engineer from Bangladesh. I love coding and exploring new technologies! Here's a bit about me:
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently working on [ModifyMate](https://github.com/Zahin52/modifymate)
+- 🌱 I’m currently learning **Swift, UIKit, Reactive Programming, NEXT**
+- 👯 I’m looking to collaborate on **Machine Learning**
+- 🤝 I’m looking for help with **Deep Learning, Computer Vision**
+- 👨‍💻 All of my projects are available at [My portfolio](https://zahin-portfolio.netlify.app/)
+- 💬 Ask me about **React, JavaScript**
+- 📫 How to reach me **zahinuddin5@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QO-25DacUb4CDkKArzbFEilJiRdmITXo/view?usp=drive_link)
+- ⚡ Fun fact **I can dance and sing and have dark humor**
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on [ModifyMate an AI SaaS](https://github.com/Zahin52/modifymate)
-  
-- 🔭 Professionaly working on iOS app development [Samsung SmartThings](https://www.samsung.com/us/smartthings/) 
-  
-- 🌱 I’m currently learning Machine Learning, Deep Learning, transformers, and diffusion architecture
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+    ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+    ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+    ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+    ![UIKit](https://img.shields.io/badge/-UIKit-000000?style=flat-square&logo=apple&logoColor=white)
+    ![Reactive Programming](https://img.shields.io/badge/-Reactive%20Programming-00BFFF?style=flat-square)
+    ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+    ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+    ![Clerk](https://img.shields.io/badge/-Clerk-000000?style=flat-square)
+    ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+</div>
 
-- 👨‍💻 All of my projects are available at [Zahin52](https://github.com/Zahin52)
+## 🌟 My Projects
+Here are some of my favorite projects:
 
-- 💬 Ask me about **REACT / NEXT**
+- [**ModifyMate**](https://github.com/Zahin52/modifymate) - AI SaaS web app for image modification
+- [**Speech-to-bangla**](https://github.com/Zahin52/speech-to-bangla-text) - Speech to bangla text writing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/light_yagami52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/light_yagami52" height="30" width="40" /></a>
-</p>
+## 🎨 Fun Animations
+![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZml0NWxxd3R0YWx4dzdnMmlrbTI3OTBqaGhnaDJ6YjR1ZjduaDBueCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FspLvJQlQACXu/giphy.gif)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
- </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zahin52&show_icons=true&theme=radical)
+![stat](https://github-readme-stats.vercel.app/api/top-langs?username=zahin52&show_icons=true&theme=radical&locale=en&layout=compact)
+![stat2](https://github-readme-stats.vercel.app/api/top-langs?username=zahin52&show_icons=true&theme=radical&locale=en&layout=compact)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=zahin52)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahin52&show_icons=true&locale=en&layout=compact" alt="zahin52" /></p>
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/zahinuddin/)
+- [Personal Website](https://zahin-portfolio.netlify.app/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahin52&show_icons=true&locale=en" alt="zahin52" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahin52&" alt="zahin52" /></p>
+✨ **Thank you for visiting my profile! Let's connect and collaborate!** ✨
