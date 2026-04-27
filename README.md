@@ -1,6 +1,6 @@
 # Hello, World! 🌍 I'm MD ZAHIN UDDIN 👋
 
-![Banner](https://media.licdn.com/dms/image/v2/C5616AQHTpNhDhpDVGA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1658135337866?e=1728518400&v=beta&t=1jya9x8P-bmEx2SC4qx2dbpemX2BFI7AqahjOhSaYUw)
+![Banner](https://drive.google.com/file/d/15sfGJm7Bsco-yl1TLuGoGKNOFqDrtKSd/view?usp=sharing)
 
 ## 🚀 About Me
 I'm a passionate Software Engineer from Bangladesh. I love coding and exploring new technologies! Here's a bit about me:
@@ -9,10 +9,10 @@ I'm a passionate Software Engineer from Bangladesh. I love coding and exploring 
 - 🌱 I’m currently learning **Swift, UIKit, Reactive Programming, NEXT**
 - 👯 I’m looking to collaborate on **Machine Learning**
 - 🤝 I’m looking for help with **Deep Learning, Computer Vision**
-- 👨‍💻 All of my projects are available at [My portfolio](https://zahin-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://zahin52.github.io/)
 - 💬 Ask me about **React, JavaScript**
 - 📫 How to reach me **zahinuddin5@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QO-25DacUb4CDkKArzbFEilJiRdmITXo/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1W_wAApTiO28cmgOA7I11icRK0faRH70S/view?usp=drive_link)
 - ⚡ Fun fact **I can dance and sing and have dark humor**
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
