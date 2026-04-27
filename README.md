@@ -1,6 +1,7 @@
+
 # Hello, World! 🌍 I'm MD ZAHIN UDDIN 👋
 
-![Banner](https://drive.google.com/file/d/15sfGJm7Bsco-yl1TLuGoGKNOFqDrtKSd/view?usp=sharing)
+<img width="867" height="651" alt="hackathon-buet-2022" src="https://github.com/user-attachments/assets/f64c7563-2020-4c5d-8bc0-8be49f2d8d90" />
 
 ## 🚀 About Me
 I'm a passionate Software Engineer from Bangladesh. I love coding and exploring new technologies! Here's a bit about me:
@@ -28,6 +29,8 @@ I'm a passionate Software Engineer from Bangladesh. I love coding and exploring 
 ![Clerk](https://img.shields.io/badge/-Clerk-000000?style=flat-square)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
+<img width="550" height="366" alt="samsung_swc" src="https://github.com/user-attachments/assets/3f0cc7a5-1108-4c39-a3b7-6bd27452a80c" />
+
 
 ## 🌟 My Projects
 Here are some of my favorite projects:
@@ -46,7 +49,7 @@ Here are some of my favorite projects:
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/zahinuddin/)
-- [Personal Website](https://zahin-portfolio.netlify.app/)
+- [Personal Website](https://zahin52.github.io/)
 
 ---
 
