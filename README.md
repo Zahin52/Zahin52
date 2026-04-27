@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm a passionate Software Engineer from Bangladesh. I love coding and exploring new technologies! Here's a bit about me:
 
-- 🔭 I’m currently working on [ModifyMate](https://github.com/Zahin52/modifymate)
+- 🔭 I’m currently working on Chologo - Trip sharing app
 - 🌱 I’m currently learning **Swift, UIKit, Reactive Programming, NEXT**
 - 👯 I’m looking to collaborate on **Machine Learning**
 - 🤝 I’m looking for help with **Deep Learning, Computer Vision**
